@@ -374,6 +374,7 @@ https://user-images.githubusercontent.com/89031565/183580952-d643ffe9-bd6f-4aad-
 
 
 
+
 ### **ADVANTAGES**
 
 -   Apple detection system will be of great help in minimizing the
